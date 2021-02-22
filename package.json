@@ -1,0 +1,19 @@
+{
+  "name": "dragonbound",
+  "version": "0.0.1",
+  "description": "DragonBound",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosX/DragonBound.git"
+  },
+  "author": "CarlosX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosX/DragonBound/issues"
+  },
+  "homepage": "https://github.com/CarlosX/DragonBound#readme"
+}
